@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "zeromq-stable": "5.2.1"
+    "zeromq-stable": "5.2.1",
+    "zeromq": "5.2.0"
   },
   "keywords": [],
   "author": "",
