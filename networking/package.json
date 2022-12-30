@@ -10,7 +10,7 @@
     "test": "echo \"Begin to test your code via Mocha\" && mocha"
   },
   "devDependencies": {
-    "mocha": "7.0.1",
+    "mocha": "10.2.0",
     "chai": "4.2.0"
   },
   "keywords": [],
